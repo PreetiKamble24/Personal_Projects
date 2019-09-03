@@ -1,0 +1,29 @@
+
+public class CallingMethods {
+
+	public static void main(String[] args) {
+		CallingMethods c = new CallingMethods();
+		c.go();
+
+	/*
+	 * note:- static component cannot call non-static component directly.
+	 * like without creating object C we cannot call methods in main method as those r nonstatic
+	 * 
+	 */
+		
+	}
+
+	public void go()
+	{
+		System.out.println("called method go");
+		go1();
+		
+	}
+
+	public void go1()
+	{
+		System.out.println("called method go1");
+		
+	}
+	
+}

@@ -1,0 +1,18 @@
+package encapsulation;
+
+import java.time.Duration;
+import java.util.Date;
+
+public class Movie {
+	
+	private int movie_id;
+	private String movie_name;
+	private String movie_actors[];
+	private Date movie_releaseDate;
+	private Duration mopvie_duration;
+	
+	
+	
+	
+
+}

@@ -1,0 +1,11 @@
+package abstractintf;
+
+public class Circle extends Shape {
+
+	@Override
+	public int findArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

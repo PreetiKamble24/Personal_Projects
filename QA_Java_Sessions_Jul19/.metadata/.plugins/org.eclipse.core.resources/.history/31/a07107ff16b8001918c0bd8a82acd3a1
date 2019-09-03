@@ -1,0 +1,8 @@
+package encapsulation;
+
+public class DramaMovie extends Movie {
+
+	public DramaMovie() {
+		System.out.println("In drama movie const...");
+	}
+}

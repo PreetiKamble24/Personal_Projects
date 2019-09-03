@@ -1,0 +1,19 @@
+package collections;
+
+import java.util.Set;
+
+public class SetDemo {
+
+	Set<String> names;
+
+	public Set<String> getNames() {
+		return names;
+	}
+
+	public void setNames(Set<String> names) {
+		this.names = names;
+	}
+	
+	
+	
+}

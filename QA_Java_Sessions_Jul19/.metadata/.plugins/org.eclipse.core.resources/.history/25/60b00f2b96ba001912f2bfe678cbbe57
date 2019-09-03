@@ -1,0 +1,4 @@
+#Fri Aug 09 16:39:17 IST 2019
+db.password=cybage@123
+db.user=cybage
+db.url=localhost

@@ -1,0 +1,9 @@
+package collections;
+
+import java.util.Set;
+
+public class SetDemo {
+
+	Set<String> names;
+	
+}

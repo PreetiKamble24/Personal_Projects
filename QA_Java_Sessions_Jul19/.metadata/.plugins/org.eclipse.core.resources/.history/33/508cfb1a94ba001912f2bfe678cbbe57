@@ -1,0 +1,17 @@
+package iodemos;
+
+public class ReadWriteFile {
+
+	File f;
+	
+	public ReadWriteFile() {
+	f=new File("f1.txt");
+	}
+	toRead(){
+		
+	}
+	toWrite{
+		
+	}
+	
+}

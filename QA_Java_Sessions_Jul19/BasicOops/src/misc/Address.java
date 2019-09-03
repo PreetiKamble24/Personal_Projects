@@ -1,0 +1,17 @@
+package misc;
+
+public class Address {
+
+	String streeName;
+	String city;
+	int pinCode;
+	public Address(String s,String c,int p) {
+		this.streeName=s;
+		this.city=c;
+		this.pinCode=p;
+	}
+	@Override
+	public String toString() {
+	return "Address [streeName=" + streeName + ", city=" + city + ", pinCode=" + pinCode + "]";
+	}
+}

@@ -1,0 +1,12 @@
+package encapsulation;
+
+public class DramaMovie extends Movie {
+	
+	
+	public DramaMovie() {
+		super("Kabir Singh",actors);
+		actors={"Shahid Kapoor","Kiara"};
+		
+		System.out.println("In drama movie const...");
+	}
+}

@@ -1,0 +1,9 @@
+import encapsulation.Movie;
+
+public class Test {
+public static void main(String[] args) {
+	Movie july_m=new Movie(107,"Angry Birds");
+	System.out.println(july_m.getMovie_id()+" "+july_m.getMovie_name());
+	july_m.toRealase();
+}
+}

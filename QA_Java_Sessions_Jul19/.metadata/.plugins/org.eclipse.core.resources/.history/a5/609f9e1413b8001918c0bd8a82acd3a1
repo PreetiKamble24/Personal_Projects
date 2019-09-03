@@ -1,0 +1,23 @@
+import encapsulation.Movie;
+import encapsulation.StaicDemo;
+
+public class Test {
+public static void main(String[] args) {
+	/*String names[]={"John","Samuel"};
+	Movie july_m=new Movie("Angry Birds",names);
+	System.out.println(july_m.getMovie_id()+" "+july_m.getMovie_name());
+	july_m.toRealase();
+	System.out.println(july_m.getMovie_actors()[0]);
+	System.out.println(july_m);*/
+/*	
+	StaicDemo obj1=new StaicDemo();
+	//obj1.setCount(3);
+	obj1.setMycount(3);
+	StaicDemo obj2=new StaicDemo();
+	System.out.println(obj2.getCount());
+	System.out.println(obj2.getMycount());*/
+	
+	
+	
+}
+}

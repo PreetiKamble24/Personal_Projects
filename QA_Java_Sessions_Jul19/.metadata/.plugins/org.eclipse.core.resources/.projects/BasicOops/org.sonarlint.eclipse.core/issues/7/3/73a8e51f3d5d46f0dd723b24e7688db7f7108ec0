@@ -1,0 +1,64 @@
+
+‚squid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÉ“å8Ù‰·ˆÅ-HpRMINORZ
+CODE_SMELL
+‡squid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÉ±ƒşÿÿÿÿ8Ù‰·ˆÅ-HqRMINORZ
+CODE_SMELL
+…squid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ò¼¿8Ù‰·ˆÅ-HrRMINORZ
+CODE_SMELL
+‡squid:S00116
+"SRename this field "movie_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÔÊÙ8Äğ¯ˆÅ-HsRMINORZ
+CODE_SMELL
+ksquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8©æ¾ˆÅ-HtRMINORZ
+CODE_SMELL
+squid:S00116"URename this field "movie_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ùµàÿÿÿÿÿ8Äğ¯ˆÅ-HuRMINORZ
+CODE_SMELL
+ksquid:S1197"8Move the array designator from the variable to the type.(Ÿ…˜ô8Ã«§‰Å-HvRMINORZ
+CODE_SMELL
+squid:S00116"\Rename this field "movie_releaseDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êíä8Äğ¯ˆÅ-HwRMINORZ
+CODE_SMELL
+‡squid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÏ–˜ùÿÿÿÿ8Ù‰·ˆÅ-HxRMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(œö 	8¶àÁˆÅ-HyRMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û®’„ûÿÿÿÿ8Ã«§‰Å-HzRMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û®’„ûÿÿÿÿ8«ö¼ˆÅ-H{RMAJORZ
+CODE_SMELL
+‡squid:S00100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘†§©üÿÿÿÿ8¶àÁˆÅ-H|RMINORZ
+CODE_SMELL
+‚squid:S00100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ò¼¿8Ù‰·ˆÅ-H}RMINORZ
+CODE_SMELL
+‡squid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êœ³Ÿùÿÿÿÿ8Ù‰·ˆÅ-H~RMINORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(±·â£øÿÿÿÿ8ù¢‰Å-HRMAJORZ
+CODE_SMELL
+Œsquid:S00116"WRename this field "movie_actors" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùš­¢8Äğ¯ˆÅ-H€RMINORZ
+CODE_SMELL
+‹squid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÉ±ƒşÿÿÿÿ8Ù‰·ˆÅ-HRMINORZ
+CODE_SMELL
+†squid:S00117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÉ“å8Ù‰·ˆÅ-H‚RMINORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(Ùš­¢8Äğ¯ˆÅ-HƒRMINORZ
+CODE_SMELL
+ˆsquid:S001007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÁÕ«üÿÿÿÿ8Ù‰·ˆÅ-H„RMINORZ
+CODE_SMELL
+ˆsquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¼ığùÿÿÿÿ8Ù‰·ˆÅ-H…RMINORZ
+CODE_SMELL
+q
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ƒú•Êùÿÿÿÿ8ÆßÕˆÅ-H†RMAJORZ
+CODE_SMELL
+ˆsquid:S001004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È·‹ÿÿÿÿÿ8Ù‰·ˆÅ-H‡RMINORZ
+CODE_SMELL
+ƒsquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ğÌÙ8Ù‰·ˆÅ-HˆRMINORZ
+CODE_SMELL
+‹squid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¼ığùÿÿÿÿ8Ù‰·ˆÅ-H‰RMINORZ
+CODE_SMELL
+ƒsquid:S00100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ù¿¿8Ù‰·ˆÅ-HŠRMINORZ
+CODE_SMELL
+‹squid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È·‹ÿÿÿÿÿ8Ù‰·ˆÅ-H‹RMINORZ
+CODE_SMELL
+“squid:S00116"YRename this field "movie_duration" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒØ©Ñşÿÿÿÿ8Ù‰·ˆÅ-HŒRMINORZ
+CODE_SMELL

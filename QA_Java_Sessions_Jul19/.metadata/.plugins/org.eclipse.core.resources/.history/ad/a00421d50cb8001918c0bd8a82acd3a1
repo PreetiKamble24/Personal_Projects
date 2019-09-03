@@ -1,0 +1,8 @@
+package encapsulation;
+
+public class StaicDemo {
+	
+	public static int count;
+	
+
+}

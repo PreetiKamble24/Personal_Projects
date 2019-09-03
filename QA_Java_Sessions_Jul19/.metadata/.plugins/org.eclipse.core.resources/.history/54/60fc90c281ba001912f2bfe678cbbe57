@@ -1,0 +1,9 @@
+package misc;
+
+public class Address {
+
+	String streeName;
+	String city;
+	int pinCode;
+	
+}

@@ -1,0 +1,5 @@
+package abstractintf;
+
+public interface Operations {
+
+}

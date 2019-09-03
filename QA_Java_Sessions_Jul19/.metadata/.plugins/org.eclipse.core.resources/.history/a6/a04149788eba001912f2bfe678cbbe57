@@ -1,0 +1,14 @@
+package collections;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapDemo {
+
+	Map<Integer,String> employees;
+	
+	public MapDemo() {
+	this.employees=new HashMap<>();
+	
+	}
+}

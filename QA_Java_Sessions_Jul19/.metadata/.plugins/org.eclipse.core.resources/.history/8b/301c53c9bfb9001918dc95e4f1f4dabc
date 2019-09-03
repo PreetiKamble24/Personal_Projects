@@ -1,0 +1,12 @@
+package exceptionHandling;
+
+public class Artihmetic {
+	
+	int add(int x[]){
+		int sum=0;
+		for(int v: x)
+			sum+=v;
+		retrun v;
+	}
+
+}

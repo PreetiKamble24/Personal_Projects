@@ -1,0 +1,19 @@
+package iodemos;
+
+import java.io.File;
+
+public class ReadWriteFile {
+
+	File f;
+	
+	public ReadWriteFile() {
+	this.f=new File("f1.txt");
+	}
+	public void toRead(){
+		
+	}
+	public void toWrite{
+		
+	}
+	
+}

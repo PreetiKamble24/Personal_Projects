@@ -1,0 +1,10 @@
+import encapsulation.Movie;
+
+public class Test {
+public static void main(String[] args) {
+	String names[]=;
+	Movie july_m=new Movie("Angry Birds",{"John","Samuel"});
+	System.out.println(july_m.getMovie_id()+" "+july_m.getMovie_name());
+	july_m.toRealase();
+}
+}

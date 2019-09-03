@@ -1,0 +1,13 @@
+package misc;
+
+public class Address {
+
+	String streeName;
+	String city;
+	int pinCode;
+	public Address(String s,String c,int p) {
+		this.streeName=s;
+		this.city=c;
+		this.pinCode=p;
+	}
+}

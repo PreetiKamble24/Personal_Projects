@@ -1,0 +1,13 @@
+package abstractintf;
+
+public class Circle extends Shape {
+
+	int rad;
+	
+	@Override
+	public float findArea() {
+		
+		return (3.14)*rad*rad;
+	}
+
+}

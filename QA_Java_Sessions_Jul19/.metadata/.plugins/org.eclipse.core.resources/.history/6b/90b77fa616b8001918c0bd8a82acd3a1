@@ -1,0 +1,8 @@
+package encapsulation;
+
+public class ActionMovie extends Movie {
+
+	public ActionMovie() {
+		// TODO Auto-generated constructor stub
+	}
+}

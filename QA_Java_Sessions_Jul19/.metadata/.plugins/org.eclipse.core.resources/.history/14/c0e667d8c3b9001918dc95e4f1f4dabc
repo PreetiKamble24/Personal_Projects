@@ -1,0 +1,15 @@
+package exceptionHandling;
+
+public class AcceptAge {
+	int age;
+
+	public AcceptAge() {
+	this.age=12;
+	}
+	public void acceptingAge() throws AgeInvalidException{
+		if(age<18)
+		throw new AgeInvalidException(age);
+		else
+			System.out.println("Vote!!!");
+	}
+}

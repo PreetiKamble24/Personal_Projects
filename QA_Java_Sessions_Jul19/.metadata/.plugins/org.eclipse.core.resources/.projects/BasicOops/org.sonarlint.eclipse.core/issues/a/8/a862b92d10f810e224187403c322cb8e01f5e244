@@ -1,0 +1,16 @@
+
+Gsquid:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(İĞÀôüÿÿÿÿ8»í¬Æ-H¾RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ˆæÿÿÿÿÿ8»í¬Æ-H¿RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÉ€·8ôøŞ¬Æ-H»RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×Äì8ê•Ë®Æ-HÚRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï”¬×ÿÿÿÿÿ8÷şÅ«Æ-H–RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Ò¤àü8ê•Ë®Æ-HÛRMAJORZ
+CODE_SMELL

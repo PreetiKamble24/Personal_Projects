@@ -1,0 +1,32 @@
+package collection;
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+
+public class MapDemo {
+
+	Map<Integer, String> employees;
+
+	public MapDemo() {
+		this.employees = new HashMap<>();
+		this.employees.put(101, "John");
+		this.employees.put(102, "Jeremy");
+		this.employees.put(103, "Ronald");
+		this.employees.put(104, "Sam");
+	}
+	
+	public void showEmployees(){
+		Set<Entry<Integer,String>> set=this.employees.entrySet();
+		Iterator itr=set.iterator();
+		while(itr.hasNext()){
+			Entry<Integer,String> e= (Entry<Integer, String>) itr.next();
+			System.out.println("Value: "+e);
+			//System.out.println("Value: "+e.getValue());
+		}
+			
+	}
+	
+}

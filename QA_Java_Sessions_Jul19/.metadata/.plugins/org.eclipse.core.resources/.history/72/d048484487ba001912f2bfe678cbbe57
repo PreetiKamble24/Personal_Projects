@@ -1,0 +1,22 @@
+package collections;
+
+import java.util.Set;
+
+public class SetDemo {
+
+	Set<String> names;
+
+	public Set<String> getNames() {
+		return names;
+	}
+
+	public void addNames(){
+		this.names.add("John");
+		this.names.add("Riya");
+		this.names.add("Shyam");
+		this.names.add("Jade");
+	}
+	
+	
+	
+}

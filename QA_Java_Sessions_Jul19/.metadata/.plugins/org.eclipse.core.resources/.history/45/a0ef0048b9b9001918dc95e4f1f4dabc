@@ -1,0 +1,11 @@
+package abstractintf;
+
+public abstract class Shape {
+	
+	abstract public int findArea();
+	
+	public void implementedMethod(){
+		System.out.println("Inside parebt Shape...");
+	}
+
+}

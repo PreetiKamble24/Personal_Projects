@@ -1,0 +1,24 @@
+
+public class CallingMethods {
+
+	public static void main(String[] args) {
+		CallingMethods c = new CallingMethods();
+		c.go1();
+
+		
+	}
+
+	public void go()
+	{
+		System.out.println("called method go");
+		
+		
+	}
+
+	public void go1()
+	{
+		System.out.println("called method go1");
+		
+	}
+	
+}

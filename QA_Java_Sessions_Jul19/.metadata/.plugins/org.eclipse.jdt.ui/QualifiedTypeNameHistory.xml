@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.time.Duration"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="encapsulation.StaicDemo"/>
+<fullyQualifiedTypeName name="encapsulation.Movie"/>
+<fullyQualifiedTypeName name="encapsulation.ActionMovie"/>
+<fullyQualifiedTypeName name="encapsulation.DramaMovie"/>
+</qualifiedTypeNameHistroy>

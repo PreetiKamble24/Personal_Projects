@@ -1,0 +1,22 @@
+package abstractintf;
+
+public class BatteryTorch implements Operations {
+
+	@Override
+	public boolean on() {
+		// TODO Auto-generated method stub
+		if(off())
+		return true;
+		else
+			return false;
+	}
+
+	@Override
+	public boolean off() {
+		if(on())
+		return true;
+		else 
+			return false;
+	}
+
+}

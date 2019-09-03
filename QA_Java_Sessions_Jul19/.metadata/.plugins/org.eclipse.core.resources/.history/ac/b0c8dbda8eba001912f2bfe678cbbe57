@@ -1,0 +1,18 @@
+package collections;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapDemo {
+
+	Map<Integer,String> employees;
+	
+	public MapDemo() {
+	this.employees=new HashMap<>();
+	this.employees.put(101,"John");
+	this.employees.put(102,"Emma");
+	this.employees.put(103,"Ronald");
+	this.employees.put(104,"Sam");
+	
+	}
+}

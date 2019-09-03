@@ -1,0 +1,7 @@
+package abstractintf;
+
+public class Shape {
+	
+	abstract public int findArea();
+
+}

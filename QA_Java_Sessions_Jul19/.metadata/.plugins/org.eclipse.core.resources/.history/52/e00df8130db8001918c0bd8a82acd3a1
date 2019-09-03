@@ -1,0 +1,16 @@
+package encapsulation;
+
+public class StaicDemo {
+	
+	static int count;
+
+	public static int getCount() {
+		return count;
+	}
+
+	public static void setCount(int count) {
+		StaicDemo.count = count;
+	}
+	
+
+}

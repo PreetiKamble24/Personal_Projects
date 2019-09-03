@@ -1,0 +1,10 @@
+package misc;
+
+public class Employee {
+
+	String ename;
+	int eid;
+	String edesg;
+	Address add;
+
+}
